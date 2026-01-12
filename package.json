@@ -40,7 +40,7 @@
     "@angular/animations": "^17.3.10",
     "@angular/cdk": "^17.3.10",
     "@angular/common": "^17.3.10",
-    "@angular/core": "^17.3.10",
+    "@angular/core": "^19.2.18",
     "@angular/forms": "^17.3.10",
     "@angular/router": "^17.3.10",
     "@floating-ui/dom": "1.6.2",

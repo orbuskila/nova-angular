@@ -43,7 +43,7 @@
     "@angular/core": "^17.3.10",
     "@angular/forms": "^17.3.10",
     "@angular/router": "^17.3.10",
-    "@floating-ui/dom": "1.6.2",
+    "@floating-ui/dom": "1.7.4",
     "@visa/nova-icons-angular": "^1.6.5",
     "@visa/nova-styles": "1.5.8",
     "change-case": "^5.4.4",
